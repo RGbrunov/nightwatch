@@ -17,4 +17,4 @@ module.exports = {
         selector: "li a[href *= '/services/']"
       },
     }
-  };
+};

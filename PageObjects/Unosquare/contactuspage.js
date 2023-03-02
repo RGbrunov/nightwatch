@@ -17,4 +17,4 @@ module.exports = {
         selector: 'label[class="hs-error-msg"]'
       }
     }
-  };
+};
